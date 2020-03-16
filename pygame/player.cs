@@ -18,7 +18,7 @@ public class player : MonoBehaviour {
 	public int angle = 0;
 	public int k;
 	public int test;
-	public Vector2 curr_pos = new Vector2(1,1);
+	public Vector2 curr_pos = new Vector2(1,1); //The current position of the player
 	public GameObject blocker;
 	public int no_of_dots = 298;
 	public Text dots_text;
